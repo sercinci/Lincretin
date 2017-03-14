@@ -1,0 +1,11 @@
+[
+    { 
+        "name": "tobi", "job": "job1", "location": "Trento"
+    },
+    { 
+        "name": "bob", "job": "job2", "location": "Milano"
+    },
+    { 
+        "name": "tom", "job": "job3", "location": "Strasbourg"
+    }
+]

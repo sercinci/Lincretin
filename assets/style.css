@@ -1,0 +1,25 @@
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 14px;
+    color: #333333;
+    font-weight: 300;
+}
+
+p.name {
+    font-weight: 600;
+}
+
+.container {
+    text-align: center;
+}
+
+img[alt='random'] {
+    cursor: pointer;
+    margin-top: 50px;
+    width: 50px;
+}
+
+img[alt='logo'] {
+    margin-top: 35px;
+    margin-bottom: 55px;
+}

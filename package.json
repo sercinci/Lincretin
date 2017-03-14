@@ -1,0 +1,14 @@
+{
+  "name": "lincretin",
+  "version": "1.0.0",
+  "description": "Ridiculous job positions",
+  "main": "server.js",
+  "scripts": {
+  },
+  "author": "sercinci",
+  "license": "GNU GPLv3 ",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-vue": "^3.9.4"
+  }
+}
